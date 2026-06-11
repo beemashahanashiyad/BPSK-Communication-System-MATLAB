@@ -1,0 +1,11 @@
+Original Message:
+HELLO THIS IS A BPSK COMMUNICATION SYSTEM PROJECT
+
+Recovered Message:
+HELLO THIS IS A BPSK COMMUNICATION SYSTEM PROJECT
+
+Total Bits Transmitted = 392
+Total Bits Recovered = 392
+
+Number of Errors = 0
+BER = 0.000
