@@ -57,6 +57,19 @@ BER Analysis
 
 ## Results
 
+### BPSK Modulation and Transmission
+
+![BPSK System](screenshots/bpsk_system.png)
+
+### BER Performance
+
+![BER Analysis](screenshots/ber_analysis.png)
+
+### Bit Recovery
+
+![Recovered Bits](screenshots/bit_recovery.png)
+
+
 ### Transmission Process
 
 * Original binary data
