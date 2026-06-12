@@ -108,6 +108,6 @@ BER is evaluated for different noise levels to study the robustness of the commu
 
 ## Author
 
-Beema Shahana Shiyad
+**Beema Shahana Shiyad**
 
 B.Tech Electronics and Communication Engineering
